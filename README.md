@@ -21,7 +21,7 @@ This is a custom, one use discord bot, nothing cool.
 - [x] Add Cooldowns to commands
 - [x] Profile Information Command
 - [x] Auto update from git commits
-- [] Make channels in faq use category IDs not channel IDs
+- [ ] Make channels in faq use category IDs not channel IDs
 
 
 **Long term Todo**
@@ -79,3 +79,6 @@ adds !tos and !dgl commands from tos.json / dgl.json
 
 ### user_info.py
 shows user info such as account creation date, server join date, voice channels, user id, etc.
+
+### pingpunisher.py
+Punishes a user in multiple channels by pinging them if they ping *all* mods! Reverse card!

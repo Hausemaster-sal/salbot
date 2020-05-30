@@ -35,6 +35,7 @@ extensions = [
     "cogs.tosbot",
     "cogs.automaticus_yeetus",
     "cogs.maze",
+    "cogs.pingpunisher",
     "salbot-secrets.autorankup"
     #"cogs.backup"
 ]
